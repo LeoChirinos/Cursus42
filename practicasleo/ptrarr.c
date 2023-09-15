@@ -26,5 +26,5 @@ int	main(void)
 		printf("mi_array[%d] 0 %d ", i, mi_array[i]);
 		printf("ptr + %d = %d\n",i, *(++ptr));
 	}
-	return (0);
+	return 0;
 }
