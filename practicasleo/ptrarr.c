@@ -27,5 +27,5 @@ int	main(void)
 		printf("ptr + %d = %d\n",i, *(++ptr));
 	}
 	return 0;
-	otra prueba
+	Hola Javi
 }
