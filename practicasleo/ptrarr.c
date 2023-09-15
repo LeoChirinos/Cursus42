@@ -27,4 +27,5 @@ int	main(void)
 		printf("ptr + %d = %d\n",i, *(++ptr));
 	}
 	return 0;
+	veamos si funciona
 }
